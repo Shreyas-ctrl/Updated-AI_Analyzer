@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+pdfplumber
+langchain
+langgraph
+openai
+python-dotenv
+supabase
