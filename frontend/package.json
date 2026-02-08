@@ -1,5 +1,5 @@
 {
-  "type":"module",
+  "type": "module",
   "name": "ai-resume-analyzer-frontend",
   "version": "1.0.0",
   "private": true,
@@ -12,12 +12,11 @@
     "three": "^0.164.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-react": "^4.0.0",
     "@tailwindcss/forms": "^0.5.7",
+    "@vitejs/plugin-react": "^4.0.0",
     "autoprefixer": "^10.4.17",
     "postcss": "^8.4.33",
     "tailwindcss": "^3.4.1",
-    "vite": "^5.0.0"
+    "vite": "^5.4.21"
   }
-  
 }
