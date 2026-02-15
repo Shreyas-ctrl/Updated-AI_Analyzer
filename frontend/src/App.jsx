@@ -120,7 +120,7 @@ export default function App() {
               className={`border-2 border-dashed border-cyan-500/30 rounded-xl p-7 text-center cursor-pointer transition-all duration-300 max-w-sm w-full mb-5 bg-gradient-to-br from-cyan-500/3 to-blue-500/3 ${
                 dragging
                   ? "bg-cyan-500/15 border-cyan-400 shadow-glow-cyan-lg scale-105"
-                  : "hover:bg-cyan-500/6 hover:border-cyan-400 hover:shadow-glow-cyan hover:scale-103 hover:shadow-lg hover:-translate-y-0.5"
+                  : "hover:bg-cyan-500/6 hover:border-cyan-400 hover:shadow-glow-cyan hover:scale-103 hover:-translate-y-0.5"
               }`}
               onDragOver={(e) => {
                 e.preventDefault();
